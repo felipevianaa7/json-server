@@ -63,20 +63,20 @@
     {
       "id": "7",
       "poltrona": 7,
-      "nome": "Felipe Viana",
-      "data": "08/02/2024, 14:19:00",
-      "email": "felipecelsius@gmail.com",
-      "genero": "Homem",
+      "nome": "",
+      "data": "",
+      "email": "",
+      "genero": "",
       "disponivel": false,
       "preReserva": false
     },
     {
       "id": "8",
       "poltrona": 8,
-      "nome": "Gnomo Novo",
-      "data": "08/02/2024, 16:53:47",
-      "email": "gnomos@hotmail.com",
-      "genero": "Homem",
+      "nome": "",
+      "data": "",
+      "email": "",
+      "genero": "",
       "disponivel": false,
       "preReserva": false
     },
